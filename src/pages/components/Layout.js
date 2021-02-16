@@ -27,11 +27,11 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Experience Japan</title>
+        <title>NextJS Starter</title>
         <link rel='icon' href='/favicon.ico' />
         <meta
           name='description'
-          content='A website about Japan that is quickly put together using NextJS'
+          content='A starter that includes nextjs and styled-components. It also has a grid Layout in place.'
         />
       </Head>
       <Grid>
